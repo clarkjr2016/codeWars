@@ -1,0 +1,12 @@
+{
+  "name": "highestword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "highestWord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node highestWord.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
