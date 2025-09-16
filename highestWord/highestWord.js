@@ -25,10 +25,10 @@ function high(x) {
   const stringToArray = x.split(" ");
 
   let mapThroughWord = stringToArray.map((word) => {
-    return word.split(""); //looping through each word and splitting it into it's own element
+    const splitInnerElement = word.split(""); //looping through each word and splitting it into it's own element
   });
 
   return mapThroughWord;
 }
 
-console.log(high("aa aa aa"));
+//I learned about explicitly return a value within a map function
