@@ -1,0 +1,12 @@
+{
+  "name": "deleteoccurences",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deleteOccurences.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node deleteOccurences.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
