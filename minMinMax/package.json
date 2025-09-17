@@ -1,0 +1,13 @@
+{
+  "name": "minminmax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "minMinMax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node minMinMax.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
