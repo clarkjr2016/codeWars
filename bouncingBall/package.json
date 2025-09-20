@@ -1,0 +1,13 @@
+{
+  "name": "bouncingball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bouncingBall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bouncingBall.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
