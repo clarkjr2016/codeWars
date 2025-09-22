@@ -1,0 +1,13 @@
+{
+  "name": "swapheadsandtails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "swapHeadsAndTails.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node swapHeadsAndTails.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
